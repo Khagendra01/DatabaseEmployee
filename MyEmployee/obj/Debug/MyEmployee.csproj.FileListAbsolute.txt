@@ -1,0 +1,12 @@
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\bin\Debug\CCEMPLOYEE.mdb
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\bin\Debug\MyEmployee.exe.config
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\bin\Debug\MyEmployee.exe
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\bin\Debug\MyEmployee.pdb
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.csproj.AssemblyReference.cache
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.Form1.resources
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.Properties.Resources.resources
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.csproj.GenerateResource.cache
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.exe
+C:\Users\Khage\source\repos\MyEmployee\MyEmployee\obj\Debug\MyEmployee.pdb
